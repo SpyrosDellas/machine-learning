@@ -1,0 +1,1 @@
+### GNU Octave scripts developed for Andrew Ng's "Machine Learning" course, by Stanford University, Coursera
